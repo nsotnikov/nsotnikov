@@ -1,5 +1,4 @@
-<h2 align="center">Ahoy 👋, I'm Nick</h2>
-
+<h3 align="center">Ahoy 👋, I'm Nick</h3>
 <!--
 **nsotnikov/nsotnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
